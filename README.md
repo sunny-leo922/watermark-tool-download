@@ -18,3 +18,11 @@ https://sunny-leo922.github.io/watermark-tool-download/
 |---|---|---|---|
 | 完整版 | `/watermark-tool/` | ✅ 有（邮箱/QQ/微信） | 公众号中转、微信生态 |
 | 干净版 | `/watermark-tool-download/` | ❌ 无 | 抖音/小红书群聊 |
+
+## 分享内容
+
+| 分类 | 名称 | 文件 |
+|------|------|------|
+| 软件工具 | 证件水印工具 | `files/证件水印工具.zip` |
+| 软件工具 | MD2PDF 转换工具 | `files/MD2PDF-Converter.exe` |
+| 文档教程 | 证件水印工具 · 使用说明 | `files/证件水印工具-使用说明.md` |
